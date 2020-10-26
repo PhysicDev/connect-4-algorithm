@@ -10,9 +10,9 @@ utilisation :
 	le bouton new game permet de reset la grille
 	le bouton PVP permet de changer le nombre de joueurs:
 		(PVP : player vs player
-		|PVE : player vs entity(IA)
-		|IA ; IA vs IA )
-	les deux sliders permettent de changer l'intelligence des IA (l'IA 1 joue les rouge et l'IA 2 joue les verts )
+		|PVE : player vs entity(IA 2)
+		|IA ; IA 1 vs IA 2 )
+	les deux sliders permettent de changer l'intelligence des IA (l'IA 1 joue les verts et l'IA 2 joue les rouges )
 	niveau 0 : joue aléatoirement
 	niveau 1 : prévoit son prochain coup puis le prochain coup de l'adversaire (2 coups)
 	niveau 2 : prévoit ses deux prochains coups et les deux prochains coups de l'adversaire (4 coups)
