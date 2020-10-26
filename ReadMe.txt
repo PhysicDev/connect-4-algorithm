@@ -22,7 +22,7 @@ utilisation :
 Ce programme a été réalisé en Java à l'aide processing ( https://processing.org/ ).
 les polices d'écriture viennent du site https://www.dafont.com/fr/
 
-les icônes et l'intégralité du programme à été fait par Physic Gamer .
+les icônes et l'intégralité du programme a été fait par Physic Gamer .
 merci d'indiquer que j'en suis le créateur si vous souhaitez réutiliser mon programme.
 
 =================================Physic Gamer || Connect 4 algo || brain factory©=================================
