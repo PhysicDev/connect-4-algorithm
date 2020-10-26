@@ -1,0 +1,3 @@
+vous trouverez ici le code de la grille de puissance 4 ainsi que le fichier stratgies qui contient toutes les stratégies que j'ai utilisé 
+
+je rappelle que ces codes ont été fait par Physic Gamer,
